@@ -1,6 +1,15 @@
 
+body {
+	font-family: 'Merriweather', serif;
+}
 
-.img-responsive {
+#tour_search_module {
+	margin: 0px auto;
+	width: 650px !important;
+}
+
+.logo {
+	margin: 20px auto 0;
 	display: block;
 	max-width: 100%;
 	height: auto;
